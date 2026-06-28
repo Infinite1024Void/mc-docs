@@ -1,0 +1,58 @@
+site_name: Minecraft Docs
+site_description: Client-side and server-side Minecraft documentation
+
+repo_name: mc-docs
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - content.code.copy
+    - search.highlight
+    - search.share
+    - toc.follow
+  palette:
+    - scheme: default
+      primary: green
+      accent: lime
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: green
+      accent: lime
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - Client:
+      - Overview: client/index.md
+      - Setup: client/setup.md
+      - Mods: client/mods.md
+      - Resource Packs: client/resource-packs.md
+  - Server:
+      - Overview: server/index.md
+      - Setup: server/setup.md
+      - Configuration: server/configuration.md
+      - Plugins: server/plugins.md
+      - Performance: server/performance.md
+  - Reference:
+      - Commands: reference/commands.md
+      - Versions: reference/versions.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
