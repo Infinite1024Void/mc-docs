@@ -1,3 +1,8 @@
+---
+title: Server Documentation
+slug: /server/
+---
+
 # Server Documentation
 
 Server documentation focuses on hosting and maintaining Minecraft worlds for multiple players.

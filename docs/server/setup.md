@@ -1,3 +1,7 @@
+---
+title: Server Setup
+---
+
 # Server Setup
 
 This guide covers the basic server setup flow.
@@ -13,7 +17,7 @@ This guide covers the basic server setup flow.
 
 ## 2. Prepare Java
 
-Install the Java version required by your Minecraft server version. Newer Minecraft versions typically require newer Java releases.
+Install the Java version required by your Minecraft server version.
 
 ## 3. Create a server folder
 
@@ -21,8 +25,4 @@ Keep each server in its own folder so configuration, worlds, logs, plugins, and 
 
 ## 4. Accept the EULA
 
-After the first server launch, review Mojang's EULA and set `eula=true` in `eula.txt` if you accept it.
-
-## 5. Start the server
-
-Run the server from its folder, then review the console output and logs for warnings or errors.
+After the first launch, review Mojang's EULA and set `eula=true` in `eula.txt` if you accept it.

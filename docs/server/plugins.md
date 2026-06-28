@@ -1,3 +1,7 @@
+---
+title: Plugins
+---
+
 # Plugins
 
 Plugins extend server behavior without requiring players to install client-side mods.
@@ -15,6 +19,3 @@ Plugins extend server behavior without requiring players to install client-side 
 3. Place the plugin `.jar` file in the `plugins` folder.
 4. Start the server.
 5. Review the console and plugin-generated configuration files.
-
-!!! note
-     Plugins usually run only on the server. Mods often require a matching mod loader and may need installation on the client, server, or both.

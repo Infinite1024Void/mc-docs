@@ -1,3 +1,7 @@
+---
+title: Commands
+---
+
 # Commands Reference
 
 This page collects common administrative commands.
@@ -11,8 +15,3 @@ This page collects common administrative commands.
 | `/whitelist add <player>` | Add a player to the whitelist |
 | `/ban <player>` | Ban a player |
 | `/pardon <player>` | Remove a player ban |
-| `/time set day` | Set the world time to day |
-| `/weather clear` | Clear the weather |
-
-!!! warning
-     Only grant operator access to players you trust. Operators can run powerful administrative commands.
