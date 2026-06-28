@@ -1,11 +1,3 @@
----
-layout: default
-title: Resource Packs
-parent: Client
-nav_order: 3
-permalink: /client/resource-packs/
----
-
 # Resource Packs
 
 Resource packs change textures, sounds, language files, models, fonts, and other client-side assets.

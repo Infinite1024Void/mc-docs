@@ -1,11 +1,3 @@
----
-layout: default
-title: Server
-nav_order: 3
-has_children: true
-permalink: /server/
----
-
 # Server Documentation
 
 Server documentation focuses on hosting and maintaining Minecraft worlds for multiple players.

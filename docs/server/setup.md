@@ -1,11 +1,3 @@
----
-layout: default
-title: Setup
-parent: Server
-nav_order: 1
-permalink: /server/setup/
----
-
 # Server Setup
 
 This guide covers the basic server setup flow.

@@ -1,11 +1,3 @@
----
-layout: default
-title: Performance
-parent: Server
-nav_order: 4
-permalink: /server/performance/
----
-
 # Performance
 
 Minecraft server performance depends on hardware, player count, world activity, view distance, simulation distance, plugins, mods, and entity counts.

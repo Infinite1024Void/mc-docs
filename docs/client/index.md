@@ -1,11 +1,3 @@
----
-layout: default
-title: Client
-nav_order: 2
-has_children: true
-permalink: /client/
----
-
 # Client Documentation
 
 Client documentation focuses on the Minecraft installation that players run on their own computer.

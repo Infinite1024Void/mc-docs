@@ -1,11 +1,3 @@
----
-layout: default
-title: Configuration
-parent: Server
-nav_order: 2
-permalink: /server/configuration/
----
-
 # Server Configuration
 
 Most server behavior is controlled through configuration files in the server folder.

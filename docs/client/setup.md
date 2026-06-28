@@ -1,11 +1,3 @@
----
-layout: default
-title: Setup
-parent: Client
-nav_order: 1
-permalink: /client/setup/
----
-
 # Client Setup
 
 This page outlines the basic path for preparing a Minecraft client.

@@ -1,11 +1,3 @@
----
-layout: default
-title: Versions
-parent: Reference
-nav_order: 2
-permalink: /reference/versions/
----
-
 # Versions Reference
 
 Version compatibility is one of the most important parts of Minecraft administration.
